@@ -1,13 +1,12 @@
 === Contact Form 7 Text CAPTCHA ===
-Contributors: Saurav Sharma
+Contributors: sauravhny
 Tags: contact form 7, captcha, text-captcha, recaptcha, spam protection
 Requires at least: 6.0.2
-Tested up to: 6.3
-Stable tag: 1.0.1
+Tested up to: 6.7.1
+Stable tag: 2.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Demo : [https://phpceil.com/contact/](https://phpceil.com/contact/)
 
 == Description ==
 Secure your website Contact Form 7 forms from bots and hackers using plugin Contact Form 7 Text CAPTCHA. Just place shortcode `[captchacf7* input-captcha-cf7 id:input-captcha-cf7]` in your form where you want to show captcha. It protects your website from spams and abuse.
